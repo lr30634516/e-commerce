@@ -2,7 +2,7 @@
 
 > Implementation of a REST Microservices in an E-Commerce with Spring boot, Cloud and multiple modules.                
 
-### Table of contents update 2
+### Table of contents update 3
 
 - [Project architecture](#Project-architecture)
 - [Tools and Technologies](#technologies)
